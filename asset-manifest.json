@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/github.com/protfolio/static/js/main.e79c9d8f.js",
+    "index.html": "/github.com/protfolio/index.html",
+    "main.e79c9d8f.js.map": "/github.com/protfolio/static/js/main.e79c9d8f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e79c9d8f.js"
+  ]
+}
